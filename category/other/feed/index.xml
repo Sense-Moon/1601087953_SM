@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OTHER  |  MEMORY</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jul 2023 04:13:50 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/07/cropped-favicon-32x32.png</url>
+	<title>OTHER  |  MEMORY</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>punycode</title>
+		<link>./../../../other/punycode/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 11:10:03 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=218</guid>
+
+					<description><![CDATA[日本語JPドメイン名のPunycode変換・逆変換 - 日本語.jpPunycodeは日本語ドメイン変換用のコードTwitterの140文字制限を少しだけ突破できるTwitterの仕様上、URLはどんなに長くても半角22 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<a href="https://punycode.jp/">日本語JPドメイン名のPunycode変換・逆変換 - 日本語.jp</a><br /><br />Punycodeは日本語ドメイン変換用のコード<br />Twitterの140文字制限を少しだけ突破できる<br /><br /><a href="./../../../wp-content/uploads/2023/07/puny.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/puny.png" alt="" width="609" height="398" class=" size-full wp-image-221" srcset="./../../../wp-content/uploads/2023/07/puny.png 609w, ./../../../wp-content/uploads/2023/07/puny-300x196.png 300w" sizes="(max-width: 609px) 100vw, 609px" /></a><br /><br />Twitterの仕様上、URLはどんなに長くても半角22文字になる<br />だからURLは11個くらい貼れる<br />（12個じゃない？と思ったけどなぜか足らなかった）<br /><br /><span>正規化後：ツイッターの文字数制限は全角.百四十文字<br /></span><span>Punycode：xn--u9jc1n4dtae90bm72t6rbyw7bpmz3hay724betqb.xn--kkrr7fp0eb8mmlv</span>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>get_word_threads.cgi</title>
+		<link>./../../../other/word/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 10:43:15 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=214</guid>
+
+					<description><![CDATA[https://hayabusa.open2ch.net/ajax/get_word_threads/get_word_threads.cgi?q=キーワード&#38;bbs=板番&#38;t=sub板番はlivejup [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>https://hayabusa.open2ch.net/ajax/get_word_threads/get_word_threads.cgi?q=キーワード&amp;bbs=板番&amp;t=sub<br /><br /></strong>板番はlivejupiterとか<br />検索結果の画面が取得できる<br />キーワードは検索したいワード<br /><br /><a href="https://hayabusa.open2ch.net/ajax/get_word_threads/get_word_threads.cgi?q=キーワード&amp;bbs=livejupiter&amp;t=sub">https://hayabusa.open2ch.net/ajax/get_word_threads/get_word_threads.cgi?q=キーワード&amp;bbs=livejupiter&amp;t=sub</a><br /><br />リンクとかに飛ぼうとするとNot Foundが出る<br />書き込みも出来ない</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>get_top.v3.cgi</title>
+		<link>./../../../other/topcgi/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 10:37:44 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=207</guid>
+
+					<description><![CDATA[https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=板番&#38;type=タイプ板番はlivejupiterとかのやつ新着スレとか人数順のスレの一覧が取得できるUR [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=板番&amp;type=タイプ</strong><br /><br />板番はlivejupiterとかのやつ<br />新着スレとか人数順のスレの一覧が取得できる<br />URLを開いた時点での情報が取得される<br /><br />・タイプ<br /><br />default　指定なし<br /><a href="https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=default">https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=default</a><br /><br />ninzu　人数順<br /><a href="https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=ninzu">https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=ninzu</a><br /><br />ikioi　勢い順<br /><a href="https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=ikioi">https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=ikioi</a><br /><br />created　新着スレ順<br /><a href="https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=created">https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=created</a><br /><br />updated　新着レス順<br /><a href="https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=updated">https://hayabusa.open2ch.net/ajax/get_top.v3.cgi?bbs=livejupiter&amp;type=updated</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>get_kako.v1.cgi(kome)</title>
+		<link>./../../../other/kako/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 02:22:13 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=201</guid>
+
+					<description><![CDATA[https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=UNIXTIME&#38;bbs=板番&#38;bbskey=スレ番komeのログが取得でき [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=<strong>UNIXTIME</strong>&amp;bbs=<strong>板番</strong>&amp;bbskey=<strong>スレ番<br /><br />komeのログ</strong>が取得できる<strong><br /><br /></strong>板番はlivejupiterとか<br />スレ番はスレッドの16～なんたらみたいなやつ<br /><br /><span><strong>UNIXTIME</strong>っていうのは、機械が判別してる日時みたいなもん</span><br /><span>1秒ごとに1個増えていく<br /></span><br /><span>↓のサイトの計算を押すと</span><br /><a rel="noopener" href="https://keisan.casio.jp/exec/system/1526004418" target="_blank">https://keisan.casio.jp/exec/system/1526004418</a><br /><br /><span>UNIX時間 1560000000</span><br /><span>日付 2019年06月08日</span><br /><span>時刻 22:20:00</span><br /><span>ってなると思う。</span><br /><span>1560000000が機械にとっては、2019-06-08 22:20:20</span><br /><span>ってことね。</span><br /><br /><span>それ踏まえて、UNIXTIMEに何を入れればいいかって言うと、スレナンバーよりかなり大きい数字入れればおｋ</span><br /><span>具体的には、「16????????」なら「17????????」みたいに2番目の数字を7に変えればいい</span><br /><span>まあ現在の日時から</span><span>UNIXTIME求めてもええけど、適当でいい（）<br /><br />■例<br /></span><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1746072559&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1746072559&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br />一番上が新しい、一番下が古い<br />ただ、ログが多いと全部見ることができないので、UNIXTIMEを調整する<br />上のURLの最後のkomeは、{"comment":"試作三つ目。ﾅﾆﾓｲｳｺﾄﾊﾅｲ","time":"1669406921"}]<br />この「"time":"1669406921"」の「1669406921」をUNIXTIMEに入れ直す<br />(上のURLの最後のkomeも入れたいなら、「1669406922」みたいに1を足せばいい）<br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1669406921&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1669406921&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br />これを繰り返していくと、なにも書かれていないURLに辿り着くから、そこが終点<br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1666719561&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1666719561&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1662746129&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1662746129&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1658517858&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1658517858&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1653930753&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1653930753&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1651592723&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1651592723&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1649955413&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1649955413&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1648493041&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1648493041&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br />一番最後のURLは、何も書かれていない。TIMEに1を足すと、<br /><br /><a href="https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1648493042&amp;bbs=livejupiter&amp;bbskey=1646072559">https://hayabusa.open2ch.net/lib/kome/ajax/get_kako.v1.cgi?time=1648493042&amp;bbs=livejupiter&amp;bbskey=1646072559</a><br /><br />一番最初のkomeになる</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>i</title>
+		<link>./../../../other/i/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 02:10:05 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=197</guid>
+
+					<description><![CDATA[https://open.open2ch.net/板番/i板番はlivejupiterとか https://open.open2ch.net/1601001890/i/ ガラケーモードの板トップが見れる]]></description>
+										<content:encoded><![CDATA[https://open.open2ch.net/<strong>板番</strong>/i<br /><br />板番はlivejupiterとか<br /><br />
+<p><a href="https://open.open2ch.net/1601001890/i/"><strong>https://open.open2ch.net/1601001890/i/</strong></a></p>
+<br />ガラケーモードの板トップが見れる]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>m</title>
+		<link>./../../../other/m/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 01:36:34 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=191</guid>
+
+					<description><![CDATA[https://open.open2ch.net/test/read.cgi/板番/スレ番/m末尾にm付けるだけ板番はlivejupiterとかスレ番はスレッドの16～なんたらみたいなやつhttps://open.ope [&#8230;]]]></description>
+										<content:encoded><![CDATA[<strong>https://open.open2ch.net/test/read.cgi/板番/スレ番/m</strong><br /><br />末尾に<strong>m</strong>付けるだけ<br />板番はlivejupiterとか<br />スレ番はスレッドの16～なんたらみたいなやつ<br /><br /><a href="https://open.open2ch.net/test/read.cgi/1601087953/1687535414/m">https://open.open2ch.net/test/read.cgi/1601087953/1687535414/m</a><br /><br /><a href="./../../../wp-content/uploads/2023/07/m.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/m.png" alt="" width="629" height="541" class=" size-full wp-image-192" srcset="./../../../wp-content/uploads/2023/07/m.png 629w, ./../../../wp-content/uploads/2023/07/m-300x258.png 300w" sizes="(max-width: 629px) 100vw, 629px" /></a><br /><br />自分のレス一覧が見れる<br />ID非表示スレでも日を跨いで確認できる]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>get_ank.cgi</title>
+		<link>./../../../other/ank/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 01:30:05 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=187</guid>
+
+					<description><![CDATA[https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/板番/スレ番/レス番板番はlivejupiterとかスレ番はスレッドの16～なんたらみたいなやつレス [&#8230;]]]></description>
+										<content:encoded><![CDATA[<strong>https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/板番/スレ番/レス番</strong><br /><br />板番はlivejupiterとか<br />スレ番はスレッドの16～なんたらみたいなやつ<br />レス番はレスの番号<br /><br />レスを取得できる<br /><br />
+<p>https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/板番/スレ番/レス番</p>
+<br />ここなら<br /><a href="https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/1601087953/1690030042/12">https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/1601087953/1690030042/12</a><br /><br />あぼーんはあぼーん済みで取得できない<br /><a href="https://hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/livejupiter/1689200438/10">hayabusa.open2ch.net/ajax/get_ank.cgi/test/read.cgi/livejupiter/1689200438/10</a>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>dat</title>
+		<link>./../../../other/dat/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Sun, 23 Jul 2023 01:16:24 +0000</pubDate>
+				<category><![CDATA[OTHER]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=185</guid>
+
+					<description><![CDATA[https://open.open2ch.net/板番/dat/スレ番.dat板番はlivejupiterとかスレ番はスレッドの16～なんたらみたいなやつhttps://open.open2ch.net/test/rea [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>https://open.open2ch.net/板番/dat/スレ番.dat</strong><br /><br />板番はlivejupiterとか<br />スレ番はスレッドの16～なんたらみたいなやつ<br /><br />https://open.open2ch.net/test/read.cgi/<strong>1601087953/1687535414</strong>/<br /><br />ここなら<br /><a href="https://open.open2ch.net/1601087953/dat/1687535414.dat">https://open.open2ch.net/1601087953/dat/1687535414.dat</a><br />これでOK</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

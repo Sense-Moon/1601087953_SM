@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BOOKMARKLET  |  MEMORY</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jul 2023 04:14:22 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/07/cropped-favicon-32x32.png</url>
+	<title>BOOKMARKLET  |  MEMORY</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>お遊び系統</title>
+		<link>./../../../bookmarklet/asobi/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 16:27:41 +0000</pubDate>
+				<category><![CDATA[BOOKMARKLET]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=154</guid>
+
+					<description><![CDATA[ページ改変 &#160; 1javascript:document.body.contentEditable='true'; document.designMode='on'; void 0 Copy 実行すると今見てる [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h4 style="text-align: center;"><span id="toc1">ページ改変</span></h4>
+<p>&nbsp;</p>
+<div>
+<div class="copy-box copy-text">1javascript:document.body.contentEditable='true'; document.designMode='on'; void 0</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div></div>
+<div><a href="./../../../wp-content/uploads/2023/07/kakikae.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/kakikae.png" alt="" width="1153" height="124" class="size-full wp-image-155 aligncenter" srcset="./../../../wp-content/uploads/2023/07/kakikae.png 1153w, ./../../../wp-content/uploads/2023/07/kakikae-300x32.png 300w, ./../../../wp-content/uploads/2023/07/kakikae-1024x110.png 1024w, ./../../../wp-content/uploads/2023/07/kakikae-768x83.png 768w" sizes="(max-width: 1153px) 100vw, 1153px" /></a></div>
+<br />
+<div style="text-align: center;">実行すると今見てるページを編集できる<br />ただし、他の人には反映されないし、リロードしたら直る<br />スクショ改ざんするときくらいにしか使えない</div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc2">怪文書</span></h4>
+<p>&nbsp;</p>
+<div>
+<div class="copy-box copy-text">1javascript:var i,s,ss=['//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js','//rawgit.com/notwaldorf/dear-sir-or-madam/master/ransom-it.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+<div style="text-align: center;"><br /><a href="./../../../wp-content/uploads/2023/07/love.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/love.png" alt="" width="1375" height="879" class="aligncenter size-full wp-image-157" srcset="./../../../wp-content/uploads/2023/07/love.png 1375w, ./../../../wp-content/uploads/2023/07/love-300x192.png 300w, ./../../../wp-content/uploads/2023/07/love-1024x655.png 1024w, ./../../../wp-content/uploads/2023/07/love-768x491.png 768w" sizes="(max-width: 1375px) 100vw, 1375px" /></a><br />見てるページがこうなる<br /><a href="https://github.com/notwaldorf/dear-sir-or-madam">notwaldorf/dear-sir-or-madam: :love_letter: Bookmarklet that ransomifies your internets (github.com)</a><br />この人が作ったらしい<br />それなりに重い<br /><br /><hr /></div>
+<h4 style="text-align: center;"><span id="toc3">うごうご</span></h4>
+</div>
+<br />
+<div class="d_outer">
+<div class="d_inner">
+<div style="width: 496px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-154-1" width="496" height="828" preload="metadata" controls="controls"><source type="video/mp4" src="./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-24-53-205.mp4?_=1" /><a href="./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-24-53-205.mp4">./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-24-53-205.mp4</a></video></div>
+</div>
+</div>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:javascript:T=new Array();N='a|img|b|strong|i|small|big|span|font|q|s|u|strike|blink|acronym|em|sup|sub|cite|label'.split('|');for(i=0;i&lt;N.length;i++)for(E=document.getElementsByTagName(N[i]),j=0;j&lt;E.length;j++)T.push(E[j]);L=T.length;function A(){for(i=0;i&lt;L;i++){S=T[i].style;S.position='relative';S.left=Math.round(Math.random()*8-4)+'px';S.top=Math.round(Math.random()*8-4)+'px'}setTimeout('A()',100);}A();void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<br />
+<div style="text-align: center;">文字が動く</div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc4">ページが逆さになる</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:jQuery({kakudo: 0}).animate({kakudo:180},{duration:3000,easing:'swing',step:function(now){jQuery(document.body).css({transform:'rotate('+now+'deg)'});}});</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div><a href="./../../../wp-content/uploads/2023/07/sakasa.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/sakasa.png" alt="" width="542" height="345" class="aligncenter size-full wp-image-165" srcset="./../../../wp-content/uploads/2023/07/sakasa.png 542w, ./../../../wp-content/uploads/2023/07/sakasa-300x191.png 300w" sizes="(max-width: 542px) 100vw, 542px" /></a> <br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc5">ページがぐるぐる回る</span></h4>
+<br />
+<div class="copy-box copy-text">1javascript:jQuery({kakudo: 0}).animate({kakudo:36000},{duration:90000,easing:'linear',step:function(now){jQuery(document.body).css({transform:'rotate('+now+'deg)'});}});</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<br />
+<div>
+<div class="d_outer">
+<div class="d_inner">
+<div style="width: 496px;" class="wp-video"><video class="wp-video-shortcode" id="video-154-2" width="496" height="828" preload="metadata" controls="controls"><source type="video/mp4" src="./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-53-29-029.mp4?_=2" /><a href="./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-53-29-029.mp4">./../../../wp-content/uploads/2023/07/bandicam-2023-07-22-01-53-29-029.mp4</a></video></div>
+</div>
+</div>
+</div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc6">文章が逆になる</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:g(document.body);function g(o){if(o.nodeType==3){for(var i=o.nodeValue.length-1,s='';i&gt;=0;i--){s+=o.nodeValue.charAt(i);}o.nodeValue=s;}else if(o.firstChild){g(o.firstChild);}if(o.nextSibling){g(o.nextSibling);}}focus();</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+<div>
+<div><br /><a href="./../../../wp-content/uploads/2023/07/gyaku.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/gyaku.png" alt="" width="665" height="336" class="aligncenter size-full wp-image-167" srcset="./../../../wp-content/uploads/2023/07/gyaku.png 665w, ./../../../wp-content/uploads/2023/07/gyaku-300x152.png 300w" sizes="(max-width: 665px) 100vw, 665px" /></a></div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc7">画面が逆さになって文字が逆文になる</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:g(document.body);function g(o){if(o.nodeType==3){for(var i=o.nodeValue.length-1,s='';i&gt;=0;i--){s+=o.nodeValue.charAt(i);}o.nodeValue=s;}else if(o.firstChild){g(o.firstChild);}if(o.nextSibling){g(o.nextSibling);}}focus();javascript:jQuery({kakudo:0}).animate({kakudo:180},{duration:1000,easing:'swing',step:function(now){jQuery(document.body).css({transform:'rotate('+now+'deg)'});}});</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+</div>
+<div></div>
+<div style="text-align: center;"><a href="./../../../wp-content/uploads/2023/07/sakasakasa.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/sakasakasa.png" alt="" width="548" height="685" class="aligncenter size-full wp-image-173" srcset="./../../../wp-content/uploads/2023/07/sakasakasa.png 548w, ./../../../wp-content/uploads/2023/07/sakasakasa-240x300.png 240w" sizes="(max-width: 548px) 100vw, 548px" /></a><br />単純に上のやつを組み合わせただけ</div>
+</div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc8">バルス</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:var $q={t:setInterval('$t()',1),a:64,b:0,c:0};function $t(){if($q.c&gt;=$q.a){clearInterval($q.t);}else{$q.c++;$q.b=Math.sin(Math.PI/$q.a*($q.c*0.5))*$q.a;}$g(document.body);}function $g(o){var n=o.childNodes;for(var i=0; i&lt;n.length; i++){if(n[i].style){n[i].style.position='relative';n[i].style.left=Math.round(Math.random()*$q.b-$q.b/2)+'px';n[i].style.top=Math.round(Math.random()*$q.b-$q.b/2)+'px';$g(n[i]);}}}focus();</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc9">英語化</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:(function(){function%20o(s){var%20d=window.open('https://translate.google.co.jp/translate?hl=en&amp;sl=ja&amp;u=%27+location.href).document;d.close()}o();})();</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<br /><a href="./../../../wp-content/uploads/2023/07/eng.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/eng.png" alt="" width="620" height="825" class="aligncenter size-full wp-image-174" srcset="./../../../wp-content/uploads/2023/07/eng.png 620w, ./../../../wp-content/uploads/2023/07/eng-225x300.png 225w" sizes="(max-width: 620px) 100vw, 620px" /></a> <br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc10">ドット解除というかただのフォント変更</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text">1javascript:(function(){document.head.innerHTML+="&lt;style&gt;body,h1,h2,h5,h3,h4,p,div,span{font-family: 'メイリオ' !important;}&lt;/style&gt;";})()</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div></div>
+<div><a href="./../../../wp-content/uploads/2023/07/dot.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/dot.png" alt="" width="445" height="590" class="aligncenter size-full wp-image-176" srcset="./../../../wp-content/uploads/2023/07/dot.png 445w, ./../../../wp-content/uploads/2023/07/dot-226x300.png 226w" sizes="(max-width: 445px) 100vw, 445px" /></a></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NG上限拡張</title>
+		<link>./../../../bookmarklet/ng/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 16:14:11 +0000</pubDate>
+				<category><![CDATA[BOOKMARKLET]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=150</guid>
+
+					<description><![CDATA[1javascript:var max=1e3,b=document.getElementsByClassName("inner"),c="d";b[0].setAttribute("id",c);let a=docum [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="copy-box copy-text">1javascript:var max=1e3,b=document.getElementsByClassName("inner"),c="d";b[0].setAttribute("id",c);let a=document.getElementById("d");a.append(document.createTextNode("上限拡張中"));void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+<div style="text-align: center;"><br /><a href="./../../../wp-content/uploads/2023/07/jyougen.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/jyougen.png" alt="" width="333" height="895" class="aligncenter size-full wp-image-151" srcset="./../../../wp-content/uploads/2023/07/jyougen.png 333w, ./../../../wp-content/uploads/2023/07/jyougen-112x300.png 112w" sizes="(max-width: 333px) 100vw, 333px" /></a><br />通常30個のNG上限を拡張できる<br /><strong>max=1e3　</strong>ここが数値で1e3は1000を表す<br /><br /><span>NG設定画面のところに「<strong>上限拡張中</strong>」となっていれば、1000個に増えている。</span><br /><span>次回追加するときもこのブックマークレットを使うこと。</span><br /><span>そうしないと消える。</span><br /><br /><span>拡張中に100個登録</span><br /><span>↓</span><br /><span>次回追加するときに<strong>拡張し忘れて</strong>101個目を追加</span><br /><span>↓</span><br /><span>70個分消えて30個になる（かなしい）</span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>他板引継ぎ</title>
+		<link>./../../../bookmarklet/different/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 13:47:04 +0000</pubDate>
+				<category><![CDATA[BOOKMARKLET]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=115</guid>
+
+					<description><![CDATA[1javascript:const a=document.getElementsByName("bbs");a[0].value="livejupiter",a[0].type="";void(0); Copy アク禁引 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div>
+<div class="copy-box copy-text">1javascript:const a=document.getElementsByName("bbs");a[0].value="livejupiter",a[0].type="";void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<p style="text-align: center;"><a href="./../../../wp-content/uploads/2023/07/hiki.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/hiki.png" alt="" width="511" height="668" class="aligncenter size-full wp-image-135" srcset="./../../../wp-content/uploads/2023/07/hiki.png 511w, ./../../../wp-content/uploads/2023/07/hiki-229x300.png 229w" sizes="(max-width: 511px) 100vw, 511px" /></a><br /><br />アク禁引き継ぎ画面で実行<br />デフォは引き継ぎ先の板はおんJ<br />適当にvipとか書き換えてもOK<br /><br />「livejupiter」って書かれた欄のとこ</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>kome関連</title>
+		<link>./../../../bookmarklet/kome/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 12:10:54 +0000</pubDate>
+				<category><![CDATA[BOOKMARKLET]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=90</guid>
+
+					<description><![CDATA[秘密の部屋 1javascript:let textbox_element=document.getElementById("room"),a=document.createElement("option");a.tex [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h4 style="text-align: center;"><span id="toc1">秘密の部屋</span></h4>
+<br />
+<div class="copy-box copy-text">1javascript:let textbox_element=document.getElementById("room"),a=document.createElement("option");a.textContent="秘密の部屋",a.value="TRIPCODEs:2",textbox_element.appendChild(a);void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy<br /></span></div>
+<div style="text-align: center;"><br /><span>新しいコメルームを作成できる</span><br /><strong>a.value="TRIPCODEs:2"</strong><br /><span><strong>TRIPCODEs</strong>が板名　livejupiterとかuravipとか</span><br /><span><strong>2</strong>がスレッドの番号</span><br /><br /><a rel="noopener" href="https://open.open2ch.net/test/read.cgi/1601087953/1686241128/1" target="_blank">https://open.open2ch.net/test/read.cgi/1601087953/1686241128/1</a><br /><span><br />ここなら</span><br /><strong>1601087953:1686241128</strong><br /><span>を入れる</span><br /><br /><span><span>応用すればkomeが見れなくなった板やスレにも移動できる<br /></span></span></div>
+<br /><hr /><br />
+<h4 style="text-align: center;"><span id="toc2">kome色分け</span></h4>
+<br />
+<div>
+<div class="copy-box copy-text" style="text-align: left;">1javascript:(function(){window._xX='';if(!window._L)window._L=eval(('('+_insertLog).replace(/\&gt;X\&lt;/,'&gt;"+_xX+"&lt;')+')');var r=function(){return Math.random()*256|0},b={},v=[];_insertLog=function(_,d){var x,y,z,c=b[d],o=v.indexOf(d)+1;do{x=r(),y=r(),z=r()}while(x+y+z&lt;255*1.5)if(!c)c=b[d]='rgb('+x+','+y+','+z+')';if(!o)o=v.push(d);_xX=o+'：';_L.apply(0,arguments);$($('#klog_view div')[0]).css({'color':c})};$('#klog_view').css('opacity',1);updateLog()})();0</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div style="text-align: center;"><a href="./../../../wp-content/uploads/2023/07/irowake.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/irowake.png" alt="" width="222" height="281" class="aligncenter size-full wp-image-143" /></a></div>
+<br />
+<div style="text-align: center;">古の民の遺産<br />komeをID別で色分けできる</div>
+<div></div>
+<div><hr /><br />
+<h4 style="text-align: center;"><span id="toc3">komeサイズ変更</span></h4>
+<p>&nbsp;</p>
+</div>
+<div>
+<div class="copy-box copy-text">1javascript:(function(){a=document.getElementById('komediv');b=document.getElementById('klog_view');c=document.getElementById('kome');a.style.width='400px';b.style.width='400px';c.style.width='350px';})();</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div></div>
+<div style="text-align: center;">komeのサイズが大きくなる<br />これも遺産<br /><strong>a.style.width='400px';b.style.width='400px';c.style.width='350px'<br /></strong></div>
+<div style="text-align: center;">ここの<strong>400px</strong>とかを弄ればOK</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>お絵描き拡張</title>
+		<link>./../../../bookmarklet/oekaki/index.html</link>
+		
+		<dc:creator><![CDATA[sense-moon]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 12:09:52 +0000</pubDate>
+				<category><![CDATA[BOOKMARKLET]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=88</guid>
+
+					<description><![CDATA[手順① &#160; &#160; 1javascript:let s=document.getElementById("canvasSize"),a=document.createElement("option");a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h4 style="text-align: center;"><span id="toc1">手順①</span></h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<div class="copy-box copy-text">1javascript:let s=document.getElementById("canvasSize"),a=document.createElement("option");a.textContent="3072x4096(4k)",a.value="3072x4096",s.appendChild(a),b=document.createElement("option"),b.textContent="1536x2048(2k)",b.value="1536x2048",s.appendChild(b),c=document.createElement("option"),c.textContent="720x1280(SD)",c.value="720x1280",s.appendChild(c),d=document.createElement("option"),d.textContent="4096x3072(4k)",d.value="4096x3072",s.appendChild(d),e=document.createElement("option"),e.textContent="2048x1536(2k)",e.value="2048x1536",s.appendChild(e),f=document.createElement("option"),f.textContent="1500x500(Twitterヘッダー)",f.value="1500x500",s.appendChild(f),g=document.createElement("option"),g.textContent="370x320(LINEスタンプ)",g.value="370x320",s.appendChild(g);void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div></div>
+<div style="text-align: center;"><span><a href="./../../../wp-content/uploads/2023/07/oekaki1.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/oekaki1.png" alt="" width="521" height="426" class="aligncenter size-full wp-image-147" srcset="./../../../wp-content/uploads/2023/07/oekaki1.png 521w, ./../../../wp-content/uploads/2023/07/oekaki1-300x245.png 300w" sizes="(max-width: 521px) 100vw, 521px" /></a><br /><br />スマホの場合、<strong>高機能モードを解除（※重要）</strong>してから、上のをコピペしてURL欄に入れて先頭の「1」を消す</span><br /><span>サイズ選ぶところにいろいろなサイズが現れる</span><br /><span>大きくなるとそれだけ重くなるので注意</span><br /><span>簡略版は↓</span></div>
+<div></div>
+<div>
+<div class="copy-box copy-text">1javascript:let s=document.getElementById("canvasSize"),a=document.createElement("option");a.textContent="3072x4096(4k)",a.value="3072x4096",s.appendChild(a);void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div style="text-align: center;"><strong>a.textContent="3072x4096(4k)"　</strong>こいつはサイズの名前で数値は変わらない<br /><strong>a.value="3072x4096"</strong>　こっちが数値でキャンバスサイズが変わる<br /><strong>a.value="横のサイズx縦のサイズ"<br /><br /></strong></div>
+<div style="text-align: center;">
+<div class="toggle-wrap"><input id="toggle-checkbox-20230722010433" class="toggle-checkbox" type="checkbox" /><strong><label class="toggle-button" for="toggle-checkbox-20230722010433">よく使うサイズ（アイビスより）</label></strong><span class="toggle-content"><span>4k 3072x4096</span><br /><span>SD(1:1) 1280x1280</span><br /><span>2k 1536x2048</span><br /><span>Twitterヘッダー　1500x500</span><br /><span>LINEスタンプ　370x270</span><br /><span>Comico 690x4096</span><br /><span>ハガキ 1181x1748</span><br /><span>A4 2894x4093</span><br /><span>A5 874x1240</span><br /><span>B4 1518x2150</span><br /><span>B5 1075x1518</span></span></div>
+</div>
+<br />
+<h4 style="text-align: center;"><span id="toc2">手順②</span></h4>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span>サイズ欄にいろいろ追加されたのを確認したら、キャンパスサイズ％の追加をする。</span><br /><span>4kやと50%でもくそでかいから（）</span><br /><span>高機能モードに切り替えて（※重要）から、↓のを実行すると、30% 10% 5%の％の項目が追加される<br /><br /></span></p>
+<div>
+<div class="copy-box copy-text">1javascript:var ss=document.getElementById("scaleSelect"),h=document.createElement("option");h.text="30%",h.value=.3,ss.add(h),i=document.createElement("option"),i.text="10%",i.value="0.1",ss.add(i),j=document.createElement("option"),j.text="5%",j.value="0.05",ss.add(j);void(0);</div>
+<div class="btn-copy"><span class="btn-copy-text">Copy</span></div>
+</div>
+<div></div>
+<div><a href="./../../../wp-content/uploads/2023/07/oekaki2.png"><img decoding="async" loading="lazy" src="./../../../wp-content/uploads/2023/07/oekaki2.png" alt="" width="289" height="266" class="aligncenter size-full wp-image-148" /></a></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
